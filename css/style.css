@@ -1,0 +1,30 @@
+body, html,
+main, header, footer,
+div, p, span, a,
+h1, h2, h3, h4, h5, h6,
+ul, ol, li
+{
+	margin: 0;
+	padding: 0;
+	font: inherit;
+	letter-spacing: inherit;
+	line-height: inherit;
+	text-decoration: none;
+	color: inherit;
+	border: none;
+	background: transparent;
+}
+
+ul, ol, li
+{
+	list-style: none;
+}
+
+main
+{
+	padding: 10px;
+	font-family: 'Times New Roman', serif;
+	font-size: 18px;
+	letter-spacing: 0.04em;
+	line-height: 1.2em;
+}
